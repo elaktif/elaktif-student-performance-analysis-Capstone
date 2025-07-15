@@ -1,0 +1,11 @@
+student_id,school,sex,age,address_type,subject,grade_1,grade_2,final_grade
+1,GP,F,18,Urban,portuguese,0,11,11
+1,GP,F,18,Urban,math,5,6,6
+2,GP,F,17,Urban,math,5,5,6
+2,GP,F,17,Urban,portuguese,9,11,11
+3,GP,F,15,Urban,math,7,8,10
+3,GP,F,15,Urban,portuguese,12,13,12
+4,GP,F,15,Urban,portuguese,14,14,14
+4,GP,F,15,Urban,math,15,14,15
+5,GP,F,16,Urban,math,6,10,10
+5,GP,F,16,Urban,portuguese,11,13,13
