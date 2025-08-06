@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project is part of my Code:You Data Analysis Capstone. I used two real datasets about high school students in Math and Portuguese classes. My goal was to see what things might affect student grades — like gender, school type, or where they live.
+This project is part of my Code:You Data Analysis Capstone. I used two real datasets about high school students in Math and Portuguese classes. My goal was to see what things might affect student grades like gender, school type, or where they live.
 I look at two subjects: Math and Portuguese. I compare them to see if students do better in one subject than the other, and what things maybe help them get better grades.
 I also compare students in both subjects to see where they do better, and if early grades (like grade 1 and 2) help predict the final grade.
 This project is made in Python using Jupyter Notebook.
