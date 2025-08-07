@@ -38,7 +38,7 @@ There are three main parts in this project:
 * Cleaning: I fixed column names and made sure data types were correct
 * New columns: I created average_grade 
 * SQL: I put the data into SQLite database and did JOIN between tables
-* Visualizations: I made 3 charts
+* Visualizations: I made 6 charts
 * Functions: I made one function to calculate average of grades
 * README: I made this file to explain my project
 
@@ -47,7 +47,6 @@ There are three main parts in this project:
 
 * `data/`: Dataset files
 * `notebooks/`: Jupyter notebooks
-* `images/`: Graphs and charts
 * `requirements.txt`: List of Python packages
 * `README.md`: This file
 
@@ -93,4 +92,5 @@ From the charts, I learned:
 
 ## Final Notes
 This project is done by me as a student still learning Python, data, and English. I did my best to clean the data, build charts, and explain what I see. Thank you for checking my work!
+Big thanks to all my mentors for your help, support, and feedback. You helped me learn and improve a lot.
 
